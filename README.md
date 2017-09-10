@@ -1,6 +1,6 @@
 MY PORTFOLIO
 
-Html, CSS and Bootstrap Project, 09.08.2-17
+Html, CSS and Bootstrap Project, 09.08.2017
 
 -By Sravanthi Velaga
 
