@@ -10,6 +10,6 @@ This Webpage is all about me and my projects in basic HTML, CSS and Bootstrap, i
 
 TECHNOLOGIES USED:
 
-HTML
-CSS
+HTML,
+CSS,
 BOOTSTRAP
